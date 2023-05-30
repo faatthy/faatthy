@@ -6,7 +6,7 @@
 .I have a keen interest in Analog and Digital Electronics  & RF attenas & Embedded Systems 👩‍💻        
 .Eager to learn more and more every day 📚   
 
-<h1 align="center">Hi 👋, I'm fathy mostafa fathy</h1>
+
 - 🌱 I’m currently learning **Analog,Digital Electronics and embedded Systems and Communications**
 
 - 📫 How to reach me **fato7a3072002@gmail.com**
