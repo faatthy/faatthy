@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm fathy mostafa fathy</h1>
-                            A ambitious Electronics and Communications Engineer    
+<h3 align="center">A ambitious Electronics and Communications Engineer</h3>
                            
   # 💫 About Me:           
 .I'm a Electronics and Communications Engineering student at Cairo University 🎓    
