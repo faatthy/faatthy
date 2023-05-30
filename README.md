@@ -1,9 +1,12 @@
 ### Hi there 👋
 
 <h1 align="center">Hi 👋, I'm fathy mostafa fathy</h1>
-# 💫 About Me:  
-<h3 align="center">A ambitious Electronics and Communications Engineer</h3>
 
+<h3 align="center">A ambitious Electronics and Communications Engineer</h3>
+# 💫 About Me: 
+I'm a Electronics and Communications Engineering student at Cairo University 🎓.
+I have a keen interest in Analog and Digital Electronics  & RF attenas & Embedded Systems 👩‍💻.
+Eager to learn more and more every day 📚.
 - 🌱 I’m currently learning **Analog,Digital Electronics and embedded Systems and Communications**
 
 - 📫 How to reach me **fato7a3072002@gmail.com**
