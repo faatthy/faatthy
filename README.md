@@ -3,7 +3,8 @@
 <h1 align="center">Hi 👋, I'm fathy mostafa fathy</h1>
 
 <h3 align="center">A ambitious Electronics and Communications Engineer</h3>
-# 💫 About Me:   
+# 💫 About Me:
+.I'm a Electronics and Communications Engineering student at Cairo University 🎓    
 .I'm a Electronics and Communications Engineering student at Cairo University 🎓    
 .I have a keen interest in Analog and Digital Electronics  & RF attenas & Embedded Systems 👩‍💻        
 .Eager to learn more and more every day 📚   
