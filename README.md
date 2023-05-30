@@ -1,7 +1,7 @@
 ### Hi there 👋
                             A ambitious Electronics and Communications Engineer    
                            
-  # About me :     
+  # 💫 About Me:           
 .I'm a Electronics and Communications Engineering student at Cairo University 🎓    
 .I have a keen interest in Analog and Digital Electronics  & RF attenas & Embedded Systems 👩‍💻        
 .Eager to learn more and more every day 📚   
