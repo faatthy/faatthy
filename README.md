@@ -1,4 +1,7 @@
 ### Hi there 👋
+                            A ambitious Electronics and Communications Engineer    
+                           
+  # About me :     
 <h1 align="center">Hi 👋, I'm fathy mostafa fathy</h1>
 - 🌱 I’m currently learning **Analog,Digital Electronics and embedded Systems and Communications**
 
