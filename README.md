@@ -1,5 +1,7 @@
-<h1 align="center">Hi 👋, I'm fathy mostafa fathy</h1>
-<h3 align="center">A ambitious Electronics and Communications Engineer</h3>
+<h1 align="center">Hi 👋, I'm Fathy</h1>
+<h3 align="center">I'm Undergraduate Electronics and Communications Engineer</h3>
+
+
 
 - 🌱 I’m currently learning **Analog,Digital Electronics and embedded Systems and Communications**
 
