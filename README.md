@@ -3,7 +3,7 @@
 
 
 ![giphy2](https://github.com/faatthy/faatthy/assets/110846097/3f73661c-1b64-403e-85d1-2d51b21cb4e1)
-- 🌱 I’m currently learning **Analog,Digital Electronics and embedded Systems and Communications**
+- 🌱 I’m currently learning **Analog,Digital Electronics,embedded Systems and Communications**
 
 - 📫 How to reach me **fato7a3072002@gmail.com**
 
