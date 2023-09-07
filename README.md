@@ -1,7 +1,7 @@
 <h1 style="text-align:center">Hi 👋, I'm Fathy</h1>
 <h3 align="center">I'm Undergraduate Electronics and Communications Engineer</h3>
 
-<img src="https://github.com/faatthy/faatthy/assets/110846097/3f73661c-1b64-403e-85d1-2d51b21cb4e1" style="margin: auto; display: block;"><!--![giphy2]()-->
+<img src="https://github.com/faatthy/faatthy/assets/110846097/3f73661c-1b64-403e-85d1-2d51b21cb4e1" style="justify-content: center; display: flex;"><!--![giphy2]()-->
 - 🌱 I’m currently learning **Analog,Digital Electronics,embedded Systems and Communications**
 
 - 📫 How to reach me **fato7a3072002@gmail.com**
