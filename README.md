@@ -20,4 +20,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faatthy&layout=compact" alt="Top Languages" />
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=faatthy&show_icons=true&locale=en" alt="faatthy" /></p>
+<p align="right">
+  <img src="https://github-readme-stats.vercel.app/api?username=faatthy&show_icons=true&locale=en" alt="faatthy" />
+</p>
